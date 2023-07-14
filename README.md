@@ -1,2 +1,4 @@
-# BioImage_matplotlib
-(Bio)Image Visualisation with Matplotlib
+# (Bio)Image Analysis with Python: Read and load microscopical images using Matplotlib
+Find more tutorials about Computer Vision, Microscopy, Biology and Data Science [here](https://medium.com/@microbioscopicdata)
+
+<p style="text-align: justify;">In the past two decades, the field of light microscopy has witnessed remarkable advancements, thanks to the introduction of groundbreaking techniques such as confocal laser-scanning microscopy (CLSM), multiphoton laser-scanning microscopy (MPLSM), light sheet fluorescence microscopy (LSFM), and super-resolution microscopy [1]. These techniques have significantly enhanced the ability to capture images with improved depth penetration, viability, and resolution. However, alongside these remarkable advancements, the emergence of these sophisticated techniques has presented considerable challenges in managing the vast amounts of data generated. Effectively visualizing, analyzing, and disseminating these complex datasets has become a crucial aspect in leveraging the full potential of these cutting-edge microscopy techniques. In this tutorial, we will explore how to read and visualize complex 2D,3D,4D and 5D light microscope images using the powerful Matplotlib Python library. </div>
